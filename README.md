@@ -1,8 +1,7 @@
-# React + Vite
+1. React-Day-2 Price Card Task.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2. Reproduced the user interface using a React.js application with JSX.
+3. Wrote the code in a dynamic manner.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. Used Array of objects for the data to display in a loop - Map method is used and to create dynamic elements by separate functional components
+5. Passed data i.e array of objects using map, per element to a child component to render DOM structure using component import and variable.
